@@ -9,7 +9,7 @@
 
 > Type any website idea → get an AI-generated development plan + downloadable AWS cost report PDF in seconds.
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/MH469Arya/AWS-Idea-Analyzer/main/screenshot.png)
 
 ---
 
@@ -27,7 +27,7 @@ No sign-up. No config. Just type and go.
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](https://raw.githubusercontent.com/MH469Arya/AWS-Idea-Analyzer/main/architecture.png?v=2)
 
 ---
 
